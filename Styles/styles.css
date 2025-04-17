@@ -33,6 +33,14 @@ pre {
     text-shadow: maroon 1px 1px;
 }
 
+/* Styles for h6 elements in the footer */
+footer h6 {
+    font-size: 100%;
+    padding: 16px;
+    border-left: dotted purple 4px;
+    margin: 4px;
+}
+
 /* trivia styles */
 
 .trivia {
