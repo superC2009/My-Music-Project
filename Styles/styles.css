@@ -33,6 +33,12 @@ pre {
     text-shadow: maroon 1px 1px;
 }
 
+/* When pre elements selected */
+pre::selection {
+    font-size: 32;
+    color: red;
+}
+
 /* Styles for h6 elements in the footer */
 footer h6 {
     font-size: 100%;
